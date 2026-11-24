@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./obx_banner.png" alt="OBX Lab" width="100%"/>
+</p>
+
 # OBX Lab
 
 ### Build openly. Experiment boldly.
